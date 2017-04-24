@@ -1,0 +1,59 @@
+[
+   {
+      "title": "地瓜西谷米",
+      "description": "豐富的維生素Ａ，能幫助修護皮膚，保持皮膚健康。",
+      "accountID": "Tom",
+      "accountImg": "../assets/account_thumbnail/Tom.jpg",
+      "image": "../assets/recipe_img/1.jpg",
+      "tag": "甜點" ,  
+      "group": "健康養身",
+      "likeNum": 30
+   },
+
+   {
+      "title": "蔥爆杏鮑菇",
+      "description": "低卡瘦身",
+      "accountID": "Tom",
+      "accountImg": "../assets/account_thumbnail/Tom.jpg",
+      "image": "../assets/recipe_img/2.jpg",
+      "tag": "主食" ,  
+      "group": "健康養身",
+      "likeNum": 5
+   },
+
+   {
+      "title": "香菇雞湯",
+      "description": "雞湯能夠改善人體的免疫機能",
+      "accountID": "Tom",
+      "accountImg": "../assets/account_thumbnail/Tom.jpg",
+      "image": "../assets/recipe_img/3.jpg",
+      "tag": "主食" ,  
+      "group": "健康養身",
+      "likeNum": 72
+   },
+
+   {
+      "title": "日式馬鈴薯沙拉",
+      "description": "營養美味又健康",
+      "accountID": "Tom",
+      "accountImg": "../assets/account_thumbnail/Tom.jpg",
+      "image": "../assets/recipe_img/4.jpg",
+      "tag": "主食" ,  
+      "group": "熱門排行",
+      "likeNum": 72
+   },
+
+   {
+      "title": "芒果優格雪酪",
+      "description": "健康又好喝，夏日必嚐",
+      "accountID": "Tom",
+      "accountImg": "../assets/account_thumbnail/Tom.jpg",
+      "image": "../assets/recipe_img/4.jpg",
+      "tag": "飲料" ,  
+      "group": "５分鐘上菜", 
+      "likeNum": 72
+   }
+   
+  
+
+]
